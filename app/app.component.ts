@@ -1,9 +1,11 @@
 import { Component } from '@angular/core';
 
-@component({
+@Component({
   selector: 'my-app',
   template: `
-  <h1>My First 2 App </h1>
+  <div class-"container">
+    <h1>My First 2 App </h1>
+  </div>
   `
 })
 
