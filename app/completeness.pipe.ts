@@ -30,7 +30,7 @@ export class CompletenessPipe implements PipeTransform {
         }
         return output;
       } else {
-          return input;
+        return input;
     }
   }
 }
